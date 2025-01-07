@@ -1,0 +1,73 @@
+[
+    {
+      "name": "John Doe",
+      "age": 28,
+      "email": "johndoe@example.com",
+      "profession": "Software Engineer",
+      "phone": "+1-555-123-4567"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 34,
+      "email": "janesmith@example.com",
+      "profession": "Graphic Designer",
+      "phone": "+1-555-234-5678"
+    },
+    {
+      "name": "Michael Brown",
+      "age": 41,
+      "email": "michaelbrown@example.com",
+      "profession": "Marketing Manager",
+      "phone": "+1-555-345-6789"
+    },
+    {
+      "name": "Emily Davis",
+      "age": 25,
+      "email": "emilydavis@example.com",
+      "profession": "Content Writer",
+      "phone": "+1-555-456-7890"
+    },
+    {
+      "name": "Daniel Wilson",
+      "age": 37,
+      "email": "danielwilson@example.com",
+      "profession": "Data Scientist",
+      "phone": "+1-555-567-8901"
+    },
+    {
+      "name": "Sophia Martinez",
+      "age": 29,
+      "email": "sophiamartinez@example.com",
+      "profession": "Accountant",
+      "phone": "+1-555-678-9012"
+    },
+    {
+      "name": "James Taylor",
+      "age": 33,
+      "email": "jamestaylor@example.com",
+      "profession": "Project Manager",
+      "phone": "+1-555-789-0123"
+    },
+    {
+      "name": "Olivia Johnson",
+      "age": 26,
+      "email": "oliviajohnson@example.com",
+      "profession": "HR Specialist",
+      "phone": "+1-555-890-1234"
+    },
+    {
+      "name": "Ethan Moore",
+      "age": 39,
+      "email": "ethanmoore@example.com",
+      "profession": "Business Analyst",
+      "phone": "+1-555-901-2345"
+    },
+    {
+      "name": "Ava Thomas",
+      "age": 31,
+      "email": "avathomas@example.com",
+      "profession": "UI/UX Designer",
+      "phone": "+1-555-012-3456"
+    }
+  ]
+  
