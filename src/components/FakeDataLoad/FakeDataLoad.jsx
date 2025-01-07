@@ -17,7 +17,7 @@ const FakeDataLoad = () => {
     return (
         <div>
             <h1>Fake Data Comming </h1>
-            <div className="grid sm:grid-cols-3">
+            <div className="grid sm:grid-cols-2">
                 {
                     fakeData.map(singleData => <SingleFakeDataReceive
                         key={singleData.id}
